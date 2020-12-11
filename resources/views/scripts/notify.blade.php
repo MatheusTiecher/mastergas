@@ -1,0 +1,1 @@
+<script src="{{asset('assets/vendor/bootstrap-notify/bootstrap-notify.min.js')}}"></script>

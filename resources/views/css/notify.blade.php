@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="{{asset('assets/vendor/animate.css/animate.min.css')}}">

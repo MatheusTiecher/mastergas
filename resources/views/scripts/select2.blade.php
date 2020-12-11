@@ -1,0 +1,2 @@
+<script type="text/javascript" src="{{asset('assets/vendor/select2/dist/js/select2.min.js')}}"></script>
+<script type="application/javascript" src="{{asset('assets/vendor/select2/dist/js/i18n/pt-BR.js')}}" ></script>
