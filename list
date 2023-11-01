@@ -1,4 +1,0 @@
-Tabela de Roteamento IP do Kernel
-Destino         Roteador        MáscaraGen.    Opções Métrica Ref   Uso Iface
-default         home.lan        0.0.0.0         UG    600    0        0 wlp3s0
-192.168.0.0     0.0.0.0         255.255.255.0   U     600    0        0 wlp3s0
